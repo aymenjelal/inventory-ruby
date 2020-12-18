@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Course": {
     "title": "string",
     "views": "int",
     "published": "boolean",
@@ -8,6 +8,6 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "Course"
   }
 }
